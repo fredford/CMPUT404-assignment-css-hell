@@ -23,7 +23,9 @@ Code is licensed under the Apache 2.0 license.
 
 ### Changes
 
+- Added line reference to `<link rel="stylesheet" href="style.css" />` for each htm file
 - Removed `<style>` information from `1.htm` and set into `style.css`
+- Removed `<style>` information from `2.htm` and set into `style.css`
 - Set `font-family` to `Arial, Helvetica, sans-serif` in paragraph
 - Added `padding: 10px` to paragraphs
 - Added `line-height: 30px` to paragraphs
